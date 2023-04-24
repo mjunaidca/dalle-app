@@ -23,7 +23,7 @@ const Header = () => {
           the drawing is only thing that you may not be good at - let AI take
           care of all the hardwork
         </p>
-        <Link className="btn" href="gallery">
+        <Link className="btn" href="share">
           Gallery
         </Link>
       </div>
